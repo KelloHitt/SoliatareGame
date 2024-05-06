@@ -1,4 +1,4 @@
-# Name: Venus Chandra
+
 import turtle, tkinter as tk, random, sys
 from tkinter import *
 from turtle import *
