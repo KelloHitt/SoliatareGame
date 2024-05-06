@@ -1,4 +1,4 @@
-                 Hi there! Here is my solitare game that I created last year.
+            Hi there! Here is my solitare game that I created last year as shown in the file above!
 
 
 To run the shell, please ensure to close all tkinter and turtle graphics windows after the ‘let’s play’ turtle graphic 
